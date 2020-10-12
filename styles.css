@@ -10,11 +10,6 @@ body{
    
     height: 3.5rem;
 }
-.container-fluid
-{
-    background-color: gray ;
-    
-}
 .dropbtn
 {
     background-color: #677977;
@@ -75,5 +70,11 @@ font-size: 5rem;
    .yohi
    {
     font-family: 'Stalinist One', cursive;
-    color: lightgrey;
+    color: ligh;
+}
+,.container-fluid
+{
+ 
+    border-width: 0px;
+    margin: 0px;
 }
