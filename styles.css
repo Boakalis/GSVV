@@ -52,6 +52,28 @@ li {
    }
    .row
    {
-       opacity: 0.92;
+       opacity: 0.8;
    }
-   
+   .description
+   {
+       line-height: 3rem;
+       animation-play-state: running;
+       font-size: 4rem;
+       font-family: 'Metal Mania', cursive;
+       width: 90%;
+       padding-left: 15%;
+       padding-top: 3rem;
+
+   }
+   .selection
+   {
+    font-family: 'Monoton', cursive;
+
+font-size: 5rem;
+
+   }
+   .yohi
+   {
+    font-family: 'Stalinist One', cursive;
+    color: lightgrey;
+}
